@@ -10,7 +10,7 @@ dov.highlight {
 pre.highlight {
   padding:10px;
   border-radius: 5px;
-  rgba(0,0,0,0.2) 0 0 0 1px, rgba(0,0,0,0.45) 0 3px 10px;
+  box-shadow: rgba(0,0,0,0.2) 0 0 0 1px, rgba(0,0,0,0.45) 0 3px 10px;
 }
 
 .highlight pre { background-color: #272822; }
