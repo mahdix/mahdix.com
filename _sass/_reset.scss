@@ -58,3 +58,8 @@ table {
 div.entry {
 	font-family: Fira Sans,Helvetica,Arial,sans-serif; line-height: 1.6;
 }
+
+div.container {
+	border-radius:  6px;
+	box-shadow: rgba(0,0,0,0.2) 0 0 0 1px, rgba(0,0,0,0.45) 0 3px 10px;
+}
