@@ -1,3 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+div.entry {
+	font-family: Fira Sans,Helvetica,Arial,sans-serif; line-height: 1.6;
+}
+
+div#main {
+	border-radius:  6px;
+	box-shadow: rgba(0,0,0,0.2) 0 0 0 1px, rgba(0,0,0,0.45) 0 3px 10px;
+	padding-bottom: 20px;
+}
+
 code {
  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
   font-size: 10pt;
