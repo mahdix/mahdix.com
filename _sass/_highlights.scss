@@ -12,6 +12,15 @@ div#main {
 	padding-bottom: 20px;
 }
 
+div.wrapper-footer {
+	border-top: 0px;
+	background-color: transparent;
+	
+	div.container {
+		background-color: transparent;		
+	}
+}
+
 code {
  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
   font-size: 10pt;
