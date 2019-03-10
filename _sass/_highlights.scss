@@ -2,9 +2,20 @@ code {
  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
   font-size: 10pt;
 }
+p.site-description {
+ color: #333;
+}
+
+body {
+ background-color: #6C7989;
+}
 
 div.highlight {
   line-height: 1.1;
+}
+
+div.container {
+  background-color: #f8f2e3;
 }
 
 pre.highlight {
@@ -13,9 +24,6 @@ pre.highlight {
   box-shadow: rgba(0,0,0,0.2) 0 0 0 1px, rgba(0,0,0,0.45) 0 3px 10px;
 }
 
-body {
- background-color: #f8f2e3;
-}
 
 .highlight pre { background-color: #272822; }
 .highlight .hll { background-color: #272822; }
