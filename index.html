@@ -10,7 +10,7 @@ layout: default
         <span style="font-size:10pt">({{ post.date | date: "%B %e, %Y" }})</span> </a></h1>
 
       <div class="entry">
-        {{ post.excerpt | truncate: 120 }}
+        {{ post.excerpt | truncatewords: 25 }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
