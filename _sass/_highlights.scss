@@ -6,6 +6,8 @@ div.entry {
 	font-family: Fira Sans,Helvetica,Arial,sans-serif; line-height: 1.6;
 }
 
+div.container header { border-bottom: 0px; }
+
 div#main {
 	padding-bottom: 20px;
 }
@@ -38,7 +40,6 @@ pre.highlight {
 }
 
 body {
-  background-color: #EEE2DC;
   color: #123C69;
 }
 
