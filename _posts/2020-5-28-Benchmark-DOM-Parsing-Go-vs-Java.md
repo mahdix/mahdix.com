@@ -3,7 +3,7 @@ title: Benchmarking HTML parsers (Go vs Java)
 permalink: /blog/2020/05/28/benchmarking_html_parsers_golang_vs_java/
 categories:
   - Uncategorized
-published: false
+published: true
 ---
 
 So, I am working on a web page extractor (something like Instapaper back-end) and I was wondering which language is a better fit for this type of code.
@@ -44,7 +44,7 @@ Below steps are done 10 times for each of Java and Go implementations:
 
 ## Source code
 
-All of the source code (Go and Java implementations + scripts used to do the benchmarking) are available [here](...)
+All of the source code (Go and Java implementations + scripts used to do the benchmarking) are available [here](https://github.com/mahdix/html-parsing-benchmark)
 
 ## Results
 
@@ -53,6 +53,8 @@ All of the source code (Go and Java implementations + scripts used to do the ben
 - This number was 921 milliseconds for the Java implementation.
 
 So, Go was about 4x faster than Java on average, which is impressive!
+
+![Benchmark results](https://raw.githubusercontent.com/mahdix/mahdix.com/master/images/html-parsing-java-vs-golang.png)
 
 
 
