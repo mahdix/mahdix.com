@@ -13,4 +13,4 @@ You can view my [resume](https://mahdix.com/upload/Mahdi.Mohammadinasab.Resume.p
 You can find me on [Stack Overflow](http://stackoverflow.com/users/2535843/mahdix), [GitHub](https://github.com/mahdix), [LinkedIn](https://my.linkedin.com/in/mahdix), and [Twitter](https://twitter.com/mahdix).[  
 ](https://my.linkedin.com/in/mahdix) 
 
-Feel free to [contact](http://www.google.com/recaptcha/mailhide/d?k=01CIzJycu1pq2SHk5xVmq2RQ==&c=qchQ8JWVOIMtbcO5cFHpycBFdZ6vHjW-gO3L5spZldE=) me!
+**I'm looking for a new position!** Feel free to [contact](http://www.google.com/recaptcha/mailhide/d?k=01CIzJycu1pq2SHk5xVmq2RQ==&c=qchQ8JWVOIMtbcO5cFHpycBFdZ6vHjW-gO3L5spZldE=) me!
