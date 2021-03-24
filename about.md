@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi!
 
-My name is Mahdi Mohammadinasab. I am a Vice President at [Goldman Sachs Bank](http://gs.com). Most of my work experience has been with distributed and concurrent Java/Scala software systems used in fixed income investment management. In recent years I have been involved in implementing data processing pipelines (to import, validate, cleanse, group, organise, filter and store) for massive amounts of data.
+My name is Mahdi Mohammadinasab. I am a Senior Software Engineer at [Credit Karma](https://www.creditkarma.com/). Most of my work experience has been with distributed and concurrent Java/Scala software systems. In recent years I have been involved in implementing data processing pipelines (to import, validate, cleanse, group, organise, filter and store) for massive amounts of data.
 
 You can view my [resume](https://mahdix.com/upload/Mahdi.Mohammadinasab.Resume.pdf) or visit my [weblog](https://mahdix.com/).
 
